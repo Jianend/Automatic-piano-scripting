@@ -1,7 +1,7 @@
 70:[nq]cdj gqt[vt]za[fh]  [aq]w
-[bw] s [gt] s j   qjgd 
+[bw] s [gt] s j qjgd 
 [nq][cj][dq]e  gqt[vt]za[fr]  [ae] 
-[bw] s g s [bsgj]  b   
+[bw] s g s [bsgj]  b 
 
 
 n c [adh]j[aq]n[vq] z [naf]f  
@@ -17,11 +17,11 @@ nw[cq]  [ad] anv z [nae]r[ve]r
 x n [sr] [dr] [br] [xe]es [gw]e
 n c [ad] [ce]e[ve]yz  [naw] [vq]q
 x n s [nh]h[dh] [nj] [gq]enw 
-[bw] x s b [ge] s [bs]   
+[bw] x s b [ge] s [bs] 
 
 
 [nq] [cq] [adq] ca[vq]qzq[na] va
-[bq] [xj]hsg[bs]d[ba]   [bme]wqh
+[bq] [xj]hsg[bs]d[ba] [bme]wqh
 [nq] wce[ad] ch[vq] wze[na] vh
 [bq] [xw]es b [sdg] s b [xb] 
 
@@ -31,9 +31,9 @@ x n s [nh]h[dh] [nj] [gq]enw
 bq[sw] g s [sg] q bjhq
 
 ng[ch] [ad] c v z [nat]rer
-bw[se]wg s [sg]   [bq]jhj
+bw[se]wg s [sg] [bq]jhj
 [nq] c [ad] c [vh] zg[na]sds
-[bs] x s g [bsgj]  b   
+[bs] x s g [bsgj]  b 
 
 
 
@@ -53,7 +53,7 @@ x n s [nh]h[dh] [nj] [gq]enw
 [bw] x s b [ge] s [bsu]  
 
 [nq] [cq] [adq] ca[vq]qzq[na] va
-[bq] [xj]hsg[bs]d[ba]   [bme]wqh
+[bq] [xj]hsg[bs]d[ba] [bme]wqh
 [nq] wce[ad] ch[vq] wze[na] vh
 [bq] [xw]es b [sdg] s b [xb] 
 
@@ -61,7 +61,7 @@ x n s [nh]h[dh] [nj] [gq]enw
 [bq] [xq]j[sh]gbs[bad]  [bme]w[bq]h
 [ne] c [ade]wqh[ve] z [nae]wqh 
 bq[sw] g s [sg] q [bj]hh [nq] [cq] [adq] ca[vq]qzq[na] va
-[bq] [xj]hsg[bs]d[ba]   [bme]wqh
+[bq] [xj]hsg[bs]d[ba] [bme]wqh
 [nq] wce[ad] ch[vq] wze[na] vh
 [bq] [xw]es b [sdg] s b [xb] 
 
@@ -71,6 +71,6 @@ bq[sw] g s [sg] q [bj]hh [nq] [cq] [adq] ca[vq]qzq[na] va
 bq[sw] g s [sg] q bjhq
 
 ng[ch] [ad] c v z [nat]rer
-bw[se]wg s [sg]   [bq]jhj
+bw[se]wg s [sg] [bq]jhj
 [nq] c [ad] c [vh] zg[na]sds
-[bs] x s g [bsgj]       
+[bs] x s g [bsgj]

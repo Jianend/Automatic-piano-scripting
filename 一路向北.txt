@@ -6,22 +6,22 @@
 [zgw] [bgw] [sgw] [bqe] [dqe] [bqt] [sqt] [bq] 
 [vq] [zq] [nq] [aq] [fq] [aq] [ng]h[vq] 
 [cngw] [cgw] [agw] [dqe] [gqe] [dqt] [aqt] [cqt] 
-[zvnqt] [qr] [qe] [qr]             
+[zvnqt] [qr] [qe] [qr] 
 
 x n a [sf] f d s a 
-[cns] d m a      g d 
+[cns] d m a  g d 
 [xvf] n a [sf] f d s a 
-[cns] [ca] m a   a [bd] g 
+[cns] [ca] m aa [bd] g 
 
 [vg] z [va] n [ah] g [ng] [vd] 
 [cg] b a b [cnh] [cg] [ag] [cd] 
 [xd] [vs] n x [ah] g [ng] [xs]d
-[bd] xsb m s   s d 
+[bd] xsb m ss d 
 
 [xvf] n a [sf] f d s a 
-[cns] d m a      g d 
+[cns] d m a  g d 
 [xvf] n a [sf] f d s a 
-[cns] [ca]am a   a [bd] j 
+[cns] [ca]am aa [bd] j 
 
 [vj] [aq] f [aq] [hq] [aw] [fq] [aj] 
 [cj] [mq] s [mq] [nq] [cw] [aq] [cw] 
@@ -48,4 +48,4 @@ c [mg]gs m n [cg] [ag] [dq]
 z b s b [ad] b s [bg] 
 
 [xng] ha  a [xbmf] d s
-a    
+a
